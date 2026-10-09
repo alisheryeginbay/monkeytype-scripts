@@ -1,0 +1,14 @@
+# API response caches (profiles, your own results)
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local Claude Code state
+.claude/settings.local.json
+.claude/.cc-writes/
+
+# macOS
+.DS_Store
